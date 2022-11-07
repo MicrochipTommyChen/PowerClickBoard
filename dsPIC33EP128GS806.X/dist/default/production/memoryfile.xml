@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/dsPIC33EP128GS806.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>8192</length>
+      <used>328</used>
+      <free>7864</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>131136</length>
+      <used>6447</used>
+      <free>124689</free>
+    </memory>
+  </executable>
+</project>
